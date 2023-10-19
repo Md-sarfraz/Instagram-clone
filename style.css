@@ -1,0 +1,156 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper {
+    font-family: 'poppins', sans-serif;
+    margin-top: 20px;
+}
+
+.mobile {
+
+    width: 280px;
+    height: 520px;
+    background-color: #ffffff;
+    border: 5px solid #000000;
+    margin: auto;
+    border-radius: 35px;
+}
+
+.camera {
+    width: 85px;
+    height: 24px;
+    background-color: black;
+    margin: auto;
+    margin-top: 13px;
+    border-radius: 15px;
+}
+
+.left-header {
+    display: flex;
+    margin-top: -20px;
+    font-size: 14px;
+    margin-left: 23px;
+}
+
+#telegram {
+    margin-left: 3px;
+}
+
+.right-header {
+    display: flex;
+    justify-content: right;
+    margin-top: -17px;
+    margin-right: 24px
+}
+
+.signal {
+    margin-right: 6px;
+}
+
+.network {
+    margin-right: 9px;
+}
+
+.header2 {
+    display: flex;
+    margin-top: 10px;
+}
+
+.header2 img {
+    margin-left: 10px;
+}
+
+.heart-and-messenger {
+    margin-left: 137px;
+    margin-top: 9px;
+}
+
+#heart {
+    margin-right: 12px;
+}
+
+.profile img {
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    margin-left: 13px;
+    padding: 2px;
+    background: linear-gradient(rgb(212, 16, 222), orange, yellow);
+}
+
+.name {
+    display: flex;
+    border-bottom: 1px solid #f1e7e7;
+    padding-bottom: 5px;
+}
+
+.name p {
+    font-size: 8px;
+    margin-left: 19px;
+}
+
+.post_profile {
+    margin-top: 10px;
+    display: flex;
+
+}
+
+.post_profile img {
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    margin-bottom: 5px;
+    margin-left: 6px;
+    padding: 1px;
+    background: linear-gradient(rgb(212, 16, 222), orange, yellow);
+}
+
+.post_profile p {
+    font-size: 10px;
+    margin-top: 7px;
+    margin-left: 10px;
+}
+
+.post_profile i {
+    margin-left: 145px;
+}
+
+.post img {
+
+}
+.social_media_section{
+    margin-left: 3px;
+}
+.social_media_section i{
+    margin-left: 8px;
+}
+#save_icon{
+margin-left: 163px;
+}
+.view_like_comment{
+    font-size: 9px;
+    margin-left: 8px;
+}
+#comment_paragraph{
+    color: #a9a0a0;
+}
+.home_icon{
+    display: flex;
+    margin-top: 23px;
+}
+.home_icon i{
+    margin-left: 29px;
+    margin-top: 11px;
+}
+.home_icon img{
+    margin-left: 33px;
+}
+.line{
+    width: 100px;
+    height: 3px;
+    background-color: #000000;
+    margin: auto;
+    margin-top: 15px;
+}
